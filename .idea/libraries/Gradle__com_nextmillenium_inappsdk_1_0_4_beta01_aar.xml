@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.nextmillenium:inappsdk:1.0.4-beta01@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/56be978ef2282800a8aa0f466b290cde/jetified-inappsdk-1.0.4-beta01/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/56be978ef2282800a8aa0f466b290cde/jetified-inappsdk-1.0.4-beta01/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/56be978ef2282800a8aa0f466b290cde/jetified-inappsdk-1.0.4-beta01/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
